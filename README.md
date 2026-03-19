@@ -18,6 +18,8 @@ DBV is a lightweight, interactive web application designed to visualize PostgreS
     - **SVG:** Download the full ER diagram as a high-quality vector image.
     - **Markdown:** Generate and export a complete Data Dictionary in Markdown format.
 - **Full Width Layout:** Responsive UI that maximizes screen real estate.
+<img width="1440" height="748" alt="image" src="https://github.com/user-attachments/assets/dc4c6c46-8865-4399-949e-e86a34b68fd9" />
+<img width="1440" height="748" alt="image" src="https://github.com/user-attachments/assets/dc4c6c46-8865-4399-949e-e86a34b68fd9" />
 
 ## 🚀 Tech Stack
 
